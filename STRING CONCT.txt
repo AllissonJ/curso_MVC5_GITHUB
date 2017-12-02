@@ -1,0 +1,5 @@
+<connectionStrings> 
+  <add name="CURSOMVC5"  
+        providerName="System.Data.SqlClient"  
+        connectionString="Server=.\SQLEXPRESS;Database=CURSOMVC5;Integrated Security=True;"/> 
+</connectionStrings>
