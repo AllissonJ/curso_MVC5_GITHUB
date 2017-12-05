@@ -26,3 +26,17 @@ D:\Projetos\CursoMVC5\Persistencia\CursoMVC5.Persistencia\obj\Debug\CursoMVC5.Pe
 D:\Projetos\CursoMVC5\Persistencia\CursoMVC5.Persistencia\obj\Debug\CursoMVC5.Persistencia.csproj.CoreCompileInputs.cache
 D:\Projetos\CursoMVC5\Persistencia\CursoMVC5.Persistencia\obj\Debug\CursoMVC5.Persistencia.dll
 D:\Projetos\CursoMVC5\Persistencia\CursoMVC5.Persistencia\obj\Debug\CursoMVC5.Persistencia.pdb
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\CursoMVC5.Persistencia.dll.config
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\CursoMVC5.Persistencia.dll
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\CursoMVC5.Persistencia.pdb
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\obj\Debug\CursoMVC5.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\obj\Debug\CursoMVC5.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\obj\Debug\CursoMVC5.Persistencia.dll
+C:\Users\adm\Source\Repos\curso_mvc5\Persistencia\CursoMVC5.Persistencia\obj\Debug\CursoMVC5.Persistencia.pdb
